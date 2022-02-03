@@ -29,7 +29,7 @@ s.source =
 
 s.vendored_frameworks = 'AppLovinMediationGoogleAdManagerAdapter-8.13.0.2/AppLovinMediationGoogleAdManagerAdapter.framework'
 
-s.dependency 'Google-Mobile-Ads-SDK', '= 8.13.0'
+s.dependency 'Google-Mobile-Ads-SDK', '~> 8.13.0'
 s.dependency 'AppLovinSDK'
 
 s.pod_target_xcconfig =
