@@ -29,7 +29,7 @@ s.source =
 
 s.vendored_frameworks = 'AppLovinMediationMaioAdapter-1.5.8.0/AppLovinMediationMaioAdapter.framework'
 
-s.dependency 'MaioSDK', '= 1.5.8'
+s.dependency 'MaioSDK', '~> 1.5.8'
 s.dependency 'AppLovinSDK'
 
 s.pod_target_xcconfig =
